@@ -1,0 +1,39 @@
+{
+  "name": "learn-algorithm",
+  "version": "1.0.0",
+  "description": "js数据结构与算法学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liu20115342/learn-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liu20115342/learn-algorithm/issues"
+  },
+  "homepage": "https://github.com/liu20115342/learn-algorithm#readme",
+  "dependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-jest": "^25.1.0",
+    "eslint-plugin-jest": "^23.7.0",
+    "jest": "^25.1.0",
+    "regenerator-runtime": "^0.13.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
